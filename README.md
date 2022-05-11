@@ -2,6 +2,10 @@
 ### Omar Ahmed Mohamed - Mostafa Ali - Mohamed Ibrahim
 ## Date:
 ### 11 MAY 2022 
+## Type of project: 
+### Software Project 
+## Version of project:
+### Version 1 
 ## Name of Project:
 ### IMT Banking 
 ## Description of IMT Banking:
