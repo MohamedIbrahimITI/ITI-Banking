@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <windows.h>
-Fff
+
 // Declaring all the functions
 void checkbalance(char*);
 void transfermoney(void);
